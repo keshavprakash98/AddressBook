@@ -10,6 +10,8 @@ namespace AddressBook
 
             addressbook.AddContact();
             addressbook.ContactsDisplay();
+            addressbook.EditContact();
+            addressbook.ContactsDisplay();
         }
     }
 }
